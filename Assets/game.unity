@@ -235,6 +235,23 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &265615447 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 1753891364182916, guid: 2f446e77809f16f43af48473fc72428f,
+    type: 2}
+  m_PrefabInternal: {fileID: 702936691}
+--- !u!114 &265615453
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 265615447}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cb8d026580f865469cfa81406520087, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  runSpeed: 5
 --- !u!1 &604513549
 GameObject:
   m_ObjectHideFlags: 0
@@ -1431,7 +1448,7 @@ Tilemap:
   - serializedVersion: 1
     m_DirtyIndex: 0
   - serializedVersion: 1
-    m_DirtyIndex: 68
+    m_DirtyIndex: 0
 --- !u!50 &2111630271
 Rigidbody2D:
   serializedVersion: 4
