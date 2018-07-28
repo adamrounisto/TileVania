@@ -296,6 +296,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Sprites and tiles\2d-extras-master\Assets\Tilemap\Brushes\Tint Brush Smooth\Shaders\TintedTilemap.shader" />
+    <None Include="Assets\Standard Assets\Cinemachine\ReleaseNotes.txt" />
     <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
     <None Include="Assets\Standard Assets\Fonts\OpenSans\License!.txt" />
   </ItemGroup>
